@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/ani1025/ofox_device_motorola_hanoip'
+        default: 'https://github.com/RaghuVarma331/android_device_motorola_hanoip-TWRP'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'fox_12.1'
+        default: 'androi-12.1'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
